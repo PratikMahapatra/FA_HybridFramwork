@@ -1,0 +1,205 @@
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG Homepage.java  - Homepage Title Validated
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG LocalPage.java  - Clicked on Local under service section
+[main] DEBUG LocalPage.java  - Cannot Switched to new Tab
+[main] DEBUG LocalPage.java  -  location filled
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - User Succesfully Registered
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - User Succesfully Loggged in
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG AboutUsPage.java  - About Us Clicked
+[main] DEBUG AboutUsPage.java  - Switched to new Tab
+[main] DEBUG AboutUsPage.java  - CeoName  Validated : Gaurav Aggarwal
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG ContactUsPage.java  - Contact Us Clicked
+[main] DEBUG ContactUsPage.java  - Switched to new Tab
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG OneWayPage.java  - Clicked on OneWayPage under service section
+[main] DEBUG OneWayPage.java  - Switched to new Tab
+[main] DEBUG OneWayPage.java  - Dropdown clicked
+[main] DEBUG OneWayPage.java  - Agra to Shikohabad one-way-cabs selected
+[main] DEBUG OneWayPage.java  - Switched to new Tab
+[main] INFO  OneWayPage.java  - Title Validated Failed : 
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG OutstationPage.java  - Source location filled
+[main] DEBUG OutstationPage.java  - Destination location filled
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG AirportPage.java  - Clicked on Airport under service section
+[main] DEBUG AirportPage.java  - Switched to new Tab
+[main] DEBUG AirportPage.java  - Source location filled
+[main] DEBUG AirportPage.java  - TripType  selected
+[main] DEBUG AirportPage.java  - Destination location filled
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG CorporateCarRental.java  - Clicked on CorporateCarRental under service section
+[main] DEBUG CorporateCarRental.java  - Switched to new Tab
+[main] DEBUG CorporateCarRental.java  - Name Entered
+[main] DEBUG CorporateCarRental.java  - Company name Entered
+[main] DEBUG CorporateCarRental.java  - Email  Entered
+[main] DEBUG CorporateCarRental.java  - Phone no Entered
+[main] DEBUG CorporateCarRental.java  - Rental Requirment Selected
+[main] DEBUG CorporateCarRental.java  - Submit button Clicked
+[main] INFO  CorporateCarRental.java  - THANK YOU FOR ENQUIRING WITH US! OUR REPRESENTATIVE WILL GET BACK TO YOU SHORTLY.
+[main] DEBUG CorporateCarRental.java  - MSG validated
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG Homepage.java  - Homepage Title Validated
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG LocalPage.java  - Clicked on Local under service section
+[main] DEBUG LocalPage.java  - Cannot Switched to new Tab
+[main] DEBUG LocalPage.java  -  location filled
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - User Succesfully Registered
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - User Succesfully Loggged in
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG AboutUsPage.java  - Cannot Click About Us
+[main] DEBUG AboutUsPage.java  - Cannot Switched to new Tab
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG ContactUsPage.java  - Contact Us Clicked
+[main] DEBUG ContactUsPage.java  - Switched to new Tab
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG OneWayPage.java  - Clicked on OneWayPage under service section
+[main] DEBUG OneWayPage.java  - Cannot Switched to new Tab
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG OutstationPage.java  - Source location filled
+[main] DEBUG OutstationPage.java  - Destination location filled
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG AirportPage.java  - Clicked on Airport under service section
+[main] DEBUG AirportPage.java  - Switched to new Tab
+[main] DEBUG AirportPage.java  - Source location filled
+[main] DEBUG AirportPage.java  - TripType  selected
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG CorporateCarRental.java  - Clicked on CorporateCarRental under service section
+[main] DEBUG CorporateCarRental.java  - Cannot Switched to new Tab
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG Homepage.java  - Homepage Title Validated
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - User Succesfully Registered
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Homepage.java  - User Succesfully Loggged in
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG AboutUsPage.java  - About Us Clicked
+[main] DEBUG AboutUsPage.java  - Switched to new Tab
+[main] DEBUG AboutUsPage.java  - CeoName  Validated : Gaurav Aggarwal
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG ContactUsPage.java  - Contact Us Clicked
+[main] DEBUG ContactUsPage.java  - Switched to new Tab
+[main] INFO  ContactUsPage.java  - Contact No Validated : 90 4545 0000
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG OneWayPage.java  - Clicked on OneWayPage under service section
+[main] DEBUG OneWayPage.java  - Switched to new Tab
+[main] DEBUG OneWayPage.java  - Dropdown clicked
+[main] DEBUG OneWayPage.java  - Agra to Shikohabad one-way-cabs selected
+[main] DEBUG OneWayPage.java  - Switched to new Tab
+[main] INFO  OneWayPage.java  - Title Validated Failed : 
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG LocalPage.java  - Clicked on Local under service section
+[main] DEBUG LocalPage.java  - Switched to new Tab
+[main] DEBUG LocalPage.java  -  location filled
+[main] DEBUG LocalPage.java  - Date  selected
+[main] DEBUG LocalPage.java  - Pickuptime  selected
+[main] DEBUG LocalPage.java  - SearchCar Clicked
+[main] DEBUG LocalPage.java  - First Car Selected in the result page
+[main] INFO  LocalPage.java  - CarType Validated : Toyota Etios or Equivalent
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG OutstationPage.java  - Source location filled
+[main] DEBUG OutstationPage.java  - Destination location filled
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG AirportPage.java  - Clicked on Airport under service section
+[main] DEBUG AirportPage.java  - Switched to new Tab
+[main] DEBUG AirportPage.java  - Source location filled
+[main] DEBUG AirportPage.java  - TripType  selected
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG CorporateCarRental.java  - Clicked on CorporateCarRental under service section
+[main] DEBUG CorporateCarRental.java  - Cannot Switched to new Tab
+[main] INFO  Hooks.class  - Driver closed
